@@ -1,2 +1,2 @@
 # java
-java code
+java code examples
