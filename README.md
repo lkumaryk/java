@@ -1,5 +1,0 @@
-Multiclient network (with java sockets)
-Compile Server.java and Client.java.
-Run the Server.java program first.
-Run the Client.java program (Can be run multiple times).
-Note: Port number in both programs can be changed manually.
